@@ -23,13 +23,13 @@ Graphs:
 2a) c location of minimums vs p for th = 2, n = 2
 2b) accuracy drop at minimum vs p for th = 2, n = 2
 
-Effect of k (split by k): (graphs currently not loading)
+3_12_2021: Effect of k (split by k): (graphs currently not loading)
 Markdown:
 1) variable list
 Graphs:
 Many graphs, showing accuracy, decision time, and percent of trials split by k (k = num independent observations) and by amount of evidence (evidence collected in either 1 or 2 unit increments, with results given for both even and odd threshold sizes).
 
-Split by k; time-dependent:
+4_2_2021: Split by k; time-dependent:
 Further exploration of behavior of k-splitting. 
 Many graphs comparing distribution of trials split by amount of time taken vs k and accuracy. 
 
